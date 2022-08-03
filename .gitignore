@@ -5,3 +5,6 @@ package-lock.json
 _dist
 _cache
 /_src/localStyles
+
+/catboost_info/
+Housing Dreams/submission.csv
